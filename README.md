@@ -31,7 +31,7 @@
 - Приложение разработано с использованием React и Redux
 - Использован [официальный API Hacker News](https://github.com/HackerNews/API). Вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда (кроме случая, если вы сделаете опциональное задание про Node.JS).
 - Роутинг выполнен с использованием [React Router v5](https://github.com/ReactTraining/react-router/releases/tag/v5.0.0)
-- Фреймворк UI любой на ваше усмотрение (как пример [React Bootstrap](https://react-bootstrap.github.io/) или [Semantic UI](https://react.semantic-ui.com/)). Можно хоть на голом CSS, главное, чтобы выглядело красиво.
+- Фреймворк UI любой на ваше усмотрение (как пример [React Bootstrap](https://react-bootstrap.github.io/) или [Semantic UI](https://react.semantic-ui.com/)).
 - Пакетный менеджер `npm`
 - Приложение должно запускаться по адресу `localhost:3000` командой `npm start`
 - После запуска приложения все переходы по ссылкам не перезагружают страницу
