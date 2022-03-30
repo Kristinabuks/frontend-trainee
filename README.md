@@ -1,4 +1,4 @@
-# Тестовое задание для стажёра Frontend в команду Seller Experience
+# Тестовое задание для Junior Frontend разработчика
 
 Разработать интерфейс для сайта [Hacker News](https://news.ycombinator.com/news), состоящий из двух страниц.
 
