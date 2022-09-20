@@ -1,0 +1,9 @@
+.Comment {
+  width: 60%;
+  border-style: solid;
+  background-color: rgba(251, 245, 239, 0.791);
+  border-color: rgba(251, 245, 239, 0.791);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}

@@ -1,0 +1,34 @@
+.NewsFeedCard {
+  border-style: solid;
+  border-color: rgba(220, 209, 193, 0.791);
+  background-color: rgba(244, 237, 228, 0.791);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+.Author {
+  width: 100%;
+}
+
+.Title {
+  font-size: large;
+}
+
+.Footer {
+  display: flex;
+  width: 100%;
+}
+
+.Time {
+  width: 50%;
+}
+
+.Score {
+  width: 50%;
+  text-align: right;
+}
